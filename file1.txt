@@ -5,3 +5,4 @@ New comment in the file
 
 
 test
+test 2
