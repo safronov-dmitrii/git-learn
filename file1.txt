@@ -6,3 +6,5 @@ New comment in the file
 
 test
 test 2
+
+test 3
