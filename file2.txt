@@ -1,4 +1,0 @@
-File name: File_2
-Comments:
-The second file has been created!
-Remote repository has been created!
